@@ -72,8 +72,8 @@ All dates are relative to the day the database is created, so there is always a 
 ### Run
 
 ```bash
-git clone https://github.com/Ojasvi-jain/hospital-queue-management-system.git
-cd hospital-queue-management-system
+git clone https://github.com/Ojasvi-jain/mediqueue-hospital-queue-system.git
+cd mediqueue-hospital-queue-system
 ```
 
 Windows (PowerShell):
